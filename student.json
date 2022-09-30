@@ -1,24 +1,16 @@
 {
     "Student": [
       {
-
-        "name":       "Arman Shaikh",
-=======
         "name":       "lavda Dhokchaule",
-
         "Branch":      "Computer",
-        "Fav_Subject":   "English ",
-        "Hobby"      :   "Code "
+        "Fav_Subject":   "Maths",
+        "Hobby"      :   "Coding"
     },
 
     {
-
-      "name":       "Yash Sonawane ",
-=======
       "name":       "pruthviraj Mali",
-
       "Branch":      "Computer",
-      "Fav_Subject": "Sanskrit ",
+      "Fav_Subject": "Maths",
       "Hobby"    : "Football"
       },
         
@@ -48,13 +40,6 @@
       "Branch":      "E & TC",
       "Fav_Subject": "maths",
       "Hobby"    : "Travelling"
-
-    },
-         {
-        "name":       "bhargavi",
-      "Branch":      "E & TC",
-      "Fav_Subject": "english",
-      "Hobby"    : "singing"
 
     },
         
@@ -108,29 +93,14 @@
       "Fav_Subject":  "Math",
       "Hobby"    :    "Drawing"
 
-    },
+    }
 {
     "name":       "Meghsham Jade",
     "Branch":      "Entc",
     "Fav_Subject":   "Java",
     "Hobby"      :   "Coding"
 },
-
-{
-    "name":       "Vyankatesh Patil",
-    "Branch":      "Entc",
-    "Fav_Subject":   "DBMS",
-    "Hobby"      :   "Coding"
-=======
-{        
-        "name":       "Pranita",
-      "Branch":      "Entc",
-      "Fav_Subject":  "Math",
-      "Hobby"    :    "Sketching"
-
-    },
   ]
-
 }
 
 {
@@ -140,13 +110,6 @@
         "Branch":      "Computer",
         "Fav_Subject":   "Maths",
         "Hobby"      :   "Coding"
-{
-    "name":       "Tushar Mourya",
-    "Branch":      "Entc",
-    "Fav_Subject":   "Java",
-    "Hobby"      :   "Coding"
-},
-
     },
         
          {
@@ -156,22 +119,6 @@
         "Hobby"      :   "Coding"
     },
         
-        {
-    "name":       "KomalG",
-    "Branch":      "computer",
-    "Fav_Subject":   "developments",
-    "Hobby"      :   "painting"
-},
-        
-        
-        
-         {
-        "name":       "Prathamesh Ilag",
-        "Branch":      "IT",
-        "Fav_Subject":   "Maths",
-        "Hobby"      :   "Cricket"
-    },
-        
 =======
         {
          "name":         "saif ali",
@@ -179,32 +126,15 @@
          "fav_subject":  "OS",
          "hobby":        "football",
     },
-
-              
-=======
       
     
         {
         "name":     "Omshree Gavhane",
         "Branch":   "Computer",
-
-        "Fav_Subject",:   "Maths",
-=======
-
-        "Fav_Subject",:    "Maths",
-=======
-        "Fav_Subject":   "Maths",
-
+        "Fav_Subject",:   "Maths"
         "Hobby"       :    "Gaming"
         },    
-
         
-    {
-        "name":       "Sanskruti Thorve",
-        "Branch":      "Information Technology",
-        "Fav_Subject":   "English",
-        "Hobby"      :   "Coding"
-    },
         
         
         
@@ -230,31 +160,7 @@
         "Branch":      "Computer",
         "Fav_Subject":   "DBMS",
         "Hobby"      :   "COmipitative programming"
-    }
-{
-        "name":       "Shritej Sankpal",
-        "Branch":      "Computer",
-        "Fav_Subject":   "Maths",
-        "Hobby"      :   "Coding"
     },
-
-]
-=======
-
-    {
-        "name":       "Rutuja ",
-      "Branch":      "EnTC",
-      "Fav_Subject":  "maths",
-      "Hobby"    :    "teaching"
-
-    },
-{
-    "name":       "prathamesh shinde",
-    "Branch":      "It",
-    "Fav_Subject":   "PYTHON",
-    "Hobby"      :   "watching anime"
-},
-
       {
         "name":       "Gouri Rawas",
         "Branch":      "Computer",
@@ -262,26 +168,12 @@
         "Hobby"      :   "Digital Designing"
     },
         
-    {
-        "name":       " SAHIL YADAV ",
-        "Branch":      " I.T",
-        "Fav_Subject":   " DSS ",
-        "Hobby"      :   " PLAYING GUITAR "
-
-    }
-    
-=======
+        {
+        "name":       "Shubham Nile",
+        "Branch":      "Computer",
+        "Fav_Subject":   "DBMS",
+        "Hobby"      :   "Designing"
     },
-    
-    
-
-
-   {
-        "name":       " Nikita Mane ",
-        "Branch":      "ENTC",
-        "Fav_Subject":   " DBMS ",
-        "Hobby"      :   " Painting "
-    },
-
-
-]
+        
+        
+        
